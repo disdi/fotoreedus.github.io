@@ -67,10 +67,10 @@ layout: default
                                 </a>
                             </li>
                         {% endif %}
-                        {% if site.social_urls.twitter %}
+                        {% if site.social_urls.500px %}
                             <li>
-                                <a href="{{ site.social_urls.twitter }}" class="icon fa-twitter">
-                                    <span class="label">Twitter</span>
+                                <a href="{{ site.social_urls.500px }}" class="icon fa-500px">
+                                    <span class="label">500px</span>
                                 </a>
                             </li>
                         {% endif %}
@@ -88,7 +88,14 @@ layout: default
                                 </a>
                             </li>
                         {% endif %}
-                        {% if site.social_urls.github %}
+                        {% if site.social_urls.twitter %}
+                            <li>
+                                <a href="{{ site.social_urls.twitter }}" class="icon fa-twitter">
+                                    <span class="label">Twitter</span>
+                                </a>
+                            </li>
+                        {% endif %}
+			{% if site.social_urls.github %}
                             <li>
                                 <a href="{{ site.social_urls.github }}" class="icon fa-github">
                                     <span class="label">GitHub</span>
