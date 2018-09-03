@@ -8,6 +8,13 @@
 
 /* Mobile Menu */
 
+/* Add a background color to the top navigation */
+.topnav {
+    background-color: #1f2224;
+    overflow: hidden;
+}
+
+
 /* Hide the link that should open and close the topnav on small screens */
 #header nav>ul>li a.mobile-bars {
     display: none;
@@ -46,6 +53,11 @@
     float: none !important;
     display: block !important;
     text-align: left !important;
+  }
+
+/* Hide full about link from mobile menu */
+  #header nav>ul.responsive>li>a.about-desktop {
+    display: display-none;
   }
 }
 
