@@ -16,11 +16,11 @@
 /* When the screen is less than 600 pixels wide, hide all links, except for the first one ("Home"). Show the link that contains should open and close the topnav (.icon) */
 @media screen and (max-width: 736px) {
   .topnav li a {
-    display: none;
+    display: none  !important;
   }
   .topnav li a.mobile-bars {
-    float: right;
-    display: block;
+    float: right !important;
+    display: block !important;
   }
 }
 
