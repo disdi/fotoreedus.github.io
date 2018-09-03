@@ -20,7 +20,7 @@
   }
   .topnav a.mobile-bars {
     float: right;
-    display: block;
+    display: block !important;
   }
 }
 
