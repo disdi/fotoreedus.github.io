@@ -56,7 +56,7 @@
   }
 
 /* Hide full about link from mobile menu */
-  #about-desktop {
+  a#about-desktop.icon.fa-info-circle {
     display: none !important;
   }
 }
