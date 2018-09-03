@@ -29,6 +29,12 @@
     float: right !important;
     display: block !important;
   }
+
+  /* Hide full about link from mobile menu */
+    #header #about-desktop {
+      display: none;
+    }
+
 }
 
 /* The "responsive" class is added to the topnav with JavaScript when the user clicks on the icon. This class makes the topnav look good on small screens (display the links vertically instead of horizontally) */
@@ -55,10 +61,6 @@
     text-align: left !important;
   }
 
-/* Hide full about link from mobile menu */
-  #header nav>ul.responsive>li>a.about-desktop {
-    display: none;
-  }
 }
 
 /* Reset */
