@@ -36,7 +36,7 @@
     right: 0 !important;
     top: 0 !important;
   }
-  #header nav .topnav.responsive li {
+  #header nav .topnav.responsive li a {
     float: none !important;
     display: block !important;
     text-align: left !important;
