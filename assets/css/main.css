@@ -56,7 +56,7 @@
   }
 
 /* Hide full about link from mobile menu */
-  #header nav>ul.responsive>li>a.#about-desktop {
+  #about-desktop {
     display: none !important;
   }
 }
