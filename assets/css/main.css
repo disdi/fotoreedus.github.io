@@ -9,7 +9,7 @@
 /* Mobile Menu */
 
 /* Hide the link that should open and close the topnav on small screens */
-.mobile-bars {
+.topnav li.mobile-bars {
     display: none;
 }
 
@@ -18,9 +18,9 @@
   .topnav {
     display: none;
   }
-  .topnav .mobile-bars {
+  .topnav li.mobile-bars {
     float: right;
-    display: block;
+    display: block !important;
   }
 }
 
