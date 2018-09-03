@@ -46,19 +46,21 @@
   }
   #header nav>ul.responsive>li {
     float: none !important;
-    display: block !important;
+    display: block;
     text-align: left !important;
   }
   #header nav>ul.responsive>li>a {
     float: none !important;
-    display: block !important;
+    display: block;
     text-align: left !important;
   }
 
 /* Hide full about link from mobile menu */
-  a#about-desktop.icon.fa-info-circle {
-    display: none !important;
-  }
+  #header nav>ul.responsive>li>a#about-desktop {
+    display: block !important;
+}
+
+
 }
 
 /* Reset */
