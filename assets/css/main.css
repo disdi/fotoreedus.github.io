@@ -2013,7 +2013,7 @@
         display: none !important;
       }
 
-      #header nav > ul > li.hamburger > a.btn-open {
+      #header nav > ul > li.hamburger a.btn-open {
         float: right !important;
         display: block !important;
       }
