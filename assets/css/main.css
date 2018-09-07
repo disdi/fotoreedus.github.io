@@ -2014,8 +2014,8 @@
       }
 
       #header nav > ul > li.hamburger a.btn-open {
-        float: right;
-        display: block;
+        float: right !important;
+        display: block !important;
       }
     }
 
