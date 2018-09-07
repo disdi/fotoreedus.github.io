@@ -13,3 +13,10 @@ Package up stock image bot and sell
 
 ### Product Page:
 https://designmodo.com/create-product-page/
+
+
+### Customizations:
+
+Mobile Menu and Overlay Adapted from:
+[1] https://codepen.io/riogrande/pen/gbXxdx
+[2] https://www.w3schools.com/howto/howto_js_topnav_responsive.asp
