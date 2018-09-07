@@ -21,13 +21,15 @@
     display: none  !important;
   }
 
-  # header nav .hamburger a.btn-open {
+  #header nav .hamburger a.btn-open {
     float: right !important;
     display: block !important;
   }
 }
 
 /*styling open close button*/
+
+/*
 .hamburger {
 	display:inline;
 	position:absolute;
@@ -36,6 +38,7 @@
 	z-index:999;
 	font-size:30px;
 }
+*/
 .hamburger a {
 	text-decoration:none;
 }
