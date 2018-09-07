@@ -2003,7 +2003,7 @@
     /* Hide the link that should open and close the topnav on small screens */
     @media screen and (min-width: 736px) {
     #header nav > ul > li.hamburger a.btn-open {
-        display: none !important;
+        display: none;
       }
     }
 
