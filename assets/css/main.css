@@ -11,7 +11,7 @@
 /* Mobile Menu */
 
 * Hide the link that should open and close the topnav on small screens */
-#header nav div.hamburger a.btn-open {
+#header nav li.hamburger a.btn-open {
     display: none;
 }
 
@@ -21,7 +21,7 @@
     display: none  !important;
   }
 
-  #header nav .hamburger a.btn-open {
+  #header nav li.hamburger a.btn-open {
     float: right !important;
     display: block !important;
   }
