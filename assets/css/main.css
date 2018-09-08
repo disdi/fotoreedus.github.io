@@ -2084,12 +2084,17 @@
 
     }
     .wrap ul.wrap-nav li {
-    	font-size:20px;
+      /* same styling as header 1 */
+      font-size: 0.9em /* font-size:20px; */
+      font-weight: 300;
+      letter-spacing: 0.1em;
+      text-transform:uppercase;
+      
     	display:inline-block;
     	vertical-align:top;
     	width:24%;
     	position:relative;
-      text-transform:uppercase;
+
     }
     .wrap ul.wrap-nav li a {
     	color:#34B484;
