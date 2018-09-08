@@ -2090,7 +2090,6 @@
     	width:24%;
     	position:relative;
       text-transform:uppercase;
-      border-bottom: none;
     }
     .wrap ul.wrap-nav li a {
     	color:#34B484;
@@ -2159,7 +2158,7 @@
     	.wrap ul.wrap-nav>li {
     		width:100%;
     		padding:20px 0;
-    		border-bottom:1px solid #575757;
+    		border-bottom: none; /* border-bottom:1px solid #575757; */
     	}
     	.wrap ul.wrap-nav {
     		padding:30px 0px 0px;
