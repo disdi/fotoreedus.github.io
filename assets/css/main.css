@@ -2016,6 +2016,7 @@
       #header nav ul li.hamburger a.btn-open {
         float: right !important;
         display: inline-block !important;
+        overflow: visible !important;
       }
     }
 
@@ -2028,6 +2029,7 @@
     	/* right:50px; */
     	/* top:6px; */
     	z-index:100020;
+      overflow: visible !important;
     	/* font-size:30px; */
     }
 
