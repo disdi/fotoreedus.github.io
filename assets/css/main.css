@@ -2064,7 +2064,7 @@
     .overlay {
     	display:none;
     	position:fixed;
-    	top:0;
+    	/* top:0; */
     	height:100%;
     	width:100%;
     	background: #1f2224; /* #333; */
