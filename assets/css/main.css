@@ -2016,6 +2016,8 @@
       #header nav ul li.hamburger a.btn-open {
         float: right !important;
         display: inline-block !important;
+        position; fixed;
+        z-index: 100030
       }
     }
 
@@ -2024,7 +2026,7 @@
 
     .hamburger {
     	/* display:inline; */
-    	position: fixed; /* position: absolute; */
+    	/* position: absolute; */
     	/* right:50px; */
     	/* top:6px; */
     	z-index:100020;
