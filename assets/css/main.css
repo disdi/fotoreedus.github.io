@@ -2159,10 +2159,12 @@
     	.wrap ul.wrap-nav {
     		padding:30px 0px 0px;
     	}
-    	nav ul {
+      /*
+      nav ul {
     		opacity:0;
     		visibility:hidden;
     	}
+      */
     	.social {
     		color:#c1c1c1;
     		font-size:25px;
