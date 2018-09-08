@@ -2089,7 +2089,7 @@
       font-weight: 300;
       letter-spacing: 0.1em;
       text-transform:uppercase;
-      
+
     	display:inline-block;
     	vertical-align:top;
     	width:24%;
@@ -2163,10 +2163,14 @@
     	.wrap ul.wrap-nav>li {
     		width:100%;
     		padding:20px 0;
-    		border-bottom: none; /* border-bottom:1px solid #575757; */
+    	  border-bottom:1px solid #575757;
     	}
     	.wrap ul.wrap-nav {
     		padding:30px 0px 0px;
+    	}
+
+      .wrap ul.wrap-nav li a {
+    		border-bottom: none;
     	}
       /*
       nav ul {
