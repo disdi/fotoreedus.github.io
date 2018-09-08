@@ -2013,7 +2013,7 @@
         display: none;
       }
 
-      #header nav ul li.hamburger a.btn-open {
+      #header nav ul li.hamburger a.btn-open, #header nav ul li.hamburger a.btn-close  {
         float: right !important;
         display: inline-block !important;
         position: relative;
@@ -2029,7 +2029,7 @@
     	/* position: absolute; */
     	/* right:50px; */
     	/* top:6px; */
-      z-index:100020;
+      /* z-index:100020; */
     	/* font-size:30px; */
     }
 
