@@ -2019,6 +2019,13 @@
         position: relative;
         z-index:100020;
       }
+      
+      #header nav ul li.about-mobile a.fa-info-circle {
+          float: right !important;
+          display: inline-block !important;
+          position: relative;
+          z-index:100020;
+      }
     }
 
     /*styling open close button*/
@@ -2097,7 +2104,7 @@
 
     }
     .wrap ul.wrap-nav li a {
-    	color:#34B484;
+    	color: #ffffff/* color:#34B484; */
     	display:block;
     	/* padding:8px 0; */
       border-bottom: none;
