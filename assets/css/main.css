@@ -2079,7 +2079,7 @@
     }
     .wrap ul.wrap-nav {
     	border-bottom:1px solid #575757;
-    	text-transform:capitalize;
+    	text-transform:uppercase;
     	padding:150px 0px 100px;
     }
     .wrap ul.wrap-nav li {
@@ -2088,6 +2088,7 @@
     	vertical-align:top;
     	width:24%;
     	position:relative;
+      text-transform:uppercase;
     }
     .wrap ul.wrap-nav li a {
     	color:#34B484;
