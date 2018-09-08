@@ -2003,19 +2003,20 @@
     /* Hide the link that should open and close the topnav on small screens */
     @media screen and (min-width: 736px) {
     #header nav > ul > li.hamburger a.btn-open {
-        display: none;
+        visability: hidden;
       }
     }
 
     /* When the screen is less than 600 pixels wide, hide all links, except for the first one ("Home"). Show the link that contains should open and close the topnav (.icon) */
     @media screen and (max-width: 736px) {
       #header nav > ul > li a {
-        display: none;
+        visability: hidden;
       }
 
       #header nav > ul > li.hamburger a.btn-open {
         float: right !important;
         display: inline-block !important;
+        visability: visible !important; 
       }
     }
 
