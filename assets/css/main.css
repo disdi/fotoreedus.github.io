@@ -2024,7 +2024,7 @@
 
     .hamburger {
     	/* display:inline; */
-    	position: absolute;
+    	position: relative;
     	/* right:50px; */
     	/* top:6px; */
     	z-index:100020;
