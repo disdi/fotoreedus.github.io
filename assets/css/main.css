@@ -2081,6 +2081,7 @@
     	border-bottom:1px solid #575757;
     	text-transform:uppercase;
     	padding:150px 0px 100px;
+      border-bottom: none;
     }
     .wrap ul.wrap-nav li {
     	font-size:20px;
