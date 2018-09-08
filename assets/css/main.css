@@ -2005,6 +2005,10 @@
     #header nav > ul > li.hamburger a.btn-open {
         display: none;
       }
+
+    #header nav > ul > li.about-mobile a.fa-info-circle {
+        display: none;
+      }
     }
 
     /* When the screen is less than 600 pixels wide, hide all links, except for the first one ("Home"). Show the link that contains should open and close the topnav (.icon) */
@@ -2019,7 +2023,7 @@
         position: relative;
         z-index:100020;
       }
-      
+
       #header nav ul li.about-mobile a.fa-info-circle {
           float: right !important;
           display: inline-block !important;
