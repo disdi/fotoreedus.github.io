@@ -12,7 +12,11 @@ Package up 500px bot (+others?) and sell
 Package up stock image bot and sell
 
 ### Product Page:
-https://designmodo.com/create-product-page/
+Options:
+1. https://designmodo.com/create-product-page/
+
+2. https://dev.solteq.com/2016/12/02/building-a-responsive-product-grid-with-css-flexbox/
+2. https://tympanus.net/Blueprints/ProductGridLayout/
 
 
 ### Customizations:
