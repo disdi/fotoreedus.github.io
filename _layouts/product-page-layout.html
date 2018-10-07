@@ -1,14 +1,21 @@
 <!DOCTYPE HTML>
-<html>
+<html lang="en" class="no-js">
 <head>
     {% include header.html %}
-    <link rel="stylesheet" href="assets/css/product-page.css"/>
+    <link rel="stylesheet" href="assets/css/reset.css"> <!-- CSS reset -->
+	<link rel="stylesheet" href="assets/css/product-page.css"> <!-- Resource style -->
+	<script src="js/modernizr.js"></script> <!-- Modernizr -->
+  	
+	<title>3D Items Quick View</title>
 </head>
 <body class="page page-id-731">
 
     {{ content }}
     
     {% include footer.html %}
-    <script srv="assets/js/product-page-switcher.js"></script>
+    
+    <script src="js/jquery-2.1.1.js"></script>
+    <script src="js/main.js"></script> <!-- Resource jQuery -->
+
 </body>
 </html>
