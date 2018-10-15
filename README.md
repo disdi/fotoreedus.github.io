@@ -14,9 +14,8 @@ Package up stock image bot and sell
 ## Product Page:
 Options:
 1. https://designmodo.com/create-product-page/
-
 2. https://dev.solteq.com/2016/12/02/building-a-responsive-product-grid-with-css-flexbox/
-2. https://tympanus.net/Blueprints/ProductGridLayout/
+3. https://tympanus.net/Blueprints/ProductGridLayout/
 
 
 ## @HighCaptures Landing Page:
