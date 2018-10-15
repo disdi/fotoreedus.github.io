@@ -30,6 +30,10 @@ Options:
 5. https://freehtml5.co/demos/air/  ***
 6. http://themeinthebox.com/demo/mountain-king-html/
 
+Ideas:
+1. Free book 1st - popup - follow social media - funny statement - "If you unfollow me later.. I have a special set of skills acquired over a very long career, I will find you... actually no I won't but just don't do it k." 
+2. Paid book 2nd
+
 Content Strategy:
 1. Aggregate and use ML to que up best drone shots week by week. 
 2. Post 9 at a time, 4 from aerial/geometry, the rest not aerial.  
