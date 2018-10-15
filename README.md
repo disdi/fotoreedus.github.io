@@ -28,7 +28,7 @@ Options:
 5. https://freehtml5.co/demos/air/  ***
 6. http://themeinthebox.com/demo/mountain-king-html/
 
-### Customizations:
+## Customizations:
 
 Mobile Menu and Overlay Adapted from:  
 [1] https://codepen.io/riogrande/pen/gbXxdx  
