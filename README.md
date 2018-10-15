@@ -29,6 +29,7 @@ Options:
 4. https://designsmaz.com/demo/akad-free-digital-agencies-html-template/
 5. https://freehtml5.co/demos/air/  ***
 6. http://themeinthebox.com/demo/mountain-king-html/
+7. https://markups.io/project/kindle/
 
 Ideas:
 1. Free book 1st - popup - follow social media - funny statement - "If you unfollow me later.. I have a special set of skills acquired over a very long career, I will find you... actually no I won't but just don't do it k." 
