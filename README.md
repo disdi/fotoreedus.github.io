@@ -19,8 +19,18 @@ Options:
 2. https://tympanus.net/Blueprints/ProductGridLayout/
 
 
+## @HighCaptures Landing Page:
+Options:
+1. https://www.brutalist.design/brutal-design-1/
+2. https://onepagelove.com/trumpet
+3. https://d2zav2bjdlctd5.cloudfront.net/theme_preview/lucy_pro/home.html
+4. https://designsmaz.com/demo/akad-free-digital-agencies-html-template/
+5. https://freehtml5.co/demos/air/  ***
+6. http://themeinthebox.com/demo/mountain-king-html/
+
 ### Customizations:
 
 Mobile Menu and Overlay Adapted from:  
 [1] https://codepen.io/riogrande/pen/gbXxdx  
 [2] https://www.w3schools.com/howto/howto_js_topnav_responsive.asp
+
