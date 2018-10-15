@@ -30,6 +30,10 @@ Options:
 5. https://freehtml5.co/demos/air/  ***
 6. http://themeinthebox.com/demo/mountain-king-html/
 
+Content Strategy:
+1. Aggregate and use ML to que up best drone shots week by week. 
+2. Post 9 at a time, 4 from aerial/geometry, the rest not aerial.  
+
 ## Customizations:
 
 Mobile Menu and Overlay Adapted from:  
