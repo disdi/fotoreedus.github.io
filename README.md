@@ -50,3 +50,28 @@ Mobile Menu and Overlay Adapted from:
 [1] https://codepen.io/riogrande/pen/gbXxdx  
 [2] https://www.w3schools.com/howto/howto_js_topnav_responsive.asp
 
+
+# Troubleshooting
+
+## Resolving CSS conflicts for different frameworks and sections of website:
+
+---
+
+You can't apply different stylesheets to different parts of a page. You have a few options:
+
+The best is to wrap the different parts of the page in divs with class names:
+
+<div class='part1'>
+    ....
+</div>
+
+<div class='part2'>
+    ....
+</div>
+Then in your part1 CSS, prefix every CSS rule with ".part1 " and in your part2 CSS, prefix every CSS rule with ".part2 ". Note that by using classes, you can use a number of different "part1" or "part2" divs, to flexibly delimit which parts of the page are affected by which CSS rules.
+
+---
+
+An external stylesheet is applied to whole html page. In order to apply different stylesheets to different portions, Firstly, the html page has to be divided into different sections using the html tag ( with each html div to be assigned a unique id or class) Secondly, the external stylesheet to be applied to each div has to be designed according to the id/class assigned to it
+
+Example as explained above by Gaby aka G. Petrioli...
