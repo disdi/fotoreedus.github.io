@@ -37,6 +37,7 @@ Ideas:
 
 Resource Compilation:
 - http://www.altitude-university.com/resources
+- http://dronelawjournal.com/
 
 Content Strategy:
 1. Aggregate and use ML to que up best drone shots week by week. 
