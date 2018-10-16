@@ -16,7 +16,7 @@ Options:
 1. https://designmodo.com/create-product-page/
 2. https://dev.solteq.com/2016/12/02/building-a-responsive-product-grid-with-css-flexbox/
 3. https://tympanus.net/Blueprints/ProductGridLayout/
-### Final: https://github.com/CodyHouse/3d-items-quick-view
+#### Final: https://github.com/CodyHouse/3d-items-quick-view
 
 #### Product Box:  
 https://www.photoshoptutorials.ws/photoshop-tutorials/drawing/how-to-create-your-own-product-mockup-box-in-photoshop/3/
