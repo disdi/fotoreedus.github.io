@@ -1,3 +1,20 @@
+/*
+    Import Tex-Gyre-Heros Regular Font <3
+*/
+
+@font-face {
+    font-family: 'tex_gyre_herosregular';
+    src: url('../fonts/tex-gyre-heros/texgyreheros-regular-webfont.eot');
+    src: url('../fonts/tex-gyre-heros/texgyreheros-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/tex-gyre-heros/texgyreheros-regular-webfont.woff2') format('woff2'),
+         url('../fonts/tex-gyre-heros/texgyreheros-regular-webfont.woff') format('woff'),
+         url('../fonts/tex-gyre-heros/texgyreheros-regular-webfont.ttf') format('truetype'),
+         url('../fonts/tex-gyre-heros/texgyreheros-regular-webfont.svg#tex_gyre_herosregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 @font-face {
   font-family: 'icomoon';
   src: url("../fonts/icomoon/icomoon.eot?srf3rx");
