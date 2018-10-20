@@ -489,10 +489,33 @@ h1, h2, h3, h4, h5, h6, figure {
   }
 }
 
+
+
+/* =======================================================
+* 	DRONE RESEOURCES STYLING 
+* ======================================================= */
+
 #fh5co-droneresources {
     background: #99ffb2;
 }
 
+
+#fh5co-droneresources .fh5co-resource-links {
+  padding: 0;
+  margin: 0;
+}
+@media screen and (max-width: 768px) {
+  #fh5co-droneresources .fh5co-resource-links {
+    margin-bottom: 30px;
+  }
+}
+#fh5co-droneresources .fh5co-resource-links li {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+/* Added originally */
 #fh5co-droneresources .fh5co-resource-links li a {
   color: #111E6C;
   text-decoration: none;
@@ -500,6 +523,22 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-droneresources .fh5co-resource-links li a:hover {
   text-decoration: underline;
 }
+/* Added Originally end */
+
+#fh5co-droneresources .fh5co-widget {
+  margin-bottom: 30px;
+}
+@media screen and (max-width: 768px) {
+  #fh5co-droneresources .fh5co-widget {
+    text-align: left;
+  }
+}
+#fh5co-droneresources .fh5co-widget h4 {
+  margin-bottom: 30px;
+  font-size: 20px;
+}
+
+
 
 #fh5co-wireframe {
   border: none !important;
