@@ -111,14 +111,18 @@
 .product_page_css body {
 	line-height: 1;
 }
-.product_page_css ol, ul {
+.product_page_css ol,
+.product_page_css ul {
 	list-style: none;
 }
-.product_page_css blockquote, q {
+.product_page_css blockquote,
+.product_page_css q {
 	quotes: none;
 }
-.product_page_css blockquote:before, blockquote:after,
-q:before, q:after {
+.product_page_css blockquote:before, 
+.product_page_css blockquote:after,
+.product_page_css q:before,
+.product_page_css q:after {
 	content: '';
 	content: none;
 }
