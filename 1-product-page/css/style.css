@@ -3,30 +3,30 @@
 Primary style
 
 -------------------------------- */
-html * {
+.product_page_css html * {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-*, *:after, *:before {
+.product_page_css *, *:after, *:before {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
 
-body {
+.product_page_css body {
   font-size: 100%;
   font-family: "Roboto", sans-serif;
   color: #323d55;
   background-color: #d8d8d8;
 }
 
-a {
+.product_page_css a {
   color: #d25055;
   text-decoration: none;
 }
 
-img {
+.product_page_css img {
   max-width: 100%;
 }
 
@@ -35,20 +35,20 @@ img {
 Modules - reusable parts of our design
 
 -------------------------------- */
-.cd-container {
+.product_page_css .cd-container {
   /* this class is used to give a max-width to the element it is applied to, and center it horizontally when it reaches that max-width */
   width: 90%;
   max-width: 1170px;
   margin: 0 auto;
 }
-.cd-container::after {
+.product_page_css .cd-container::after {
   /* clearfix */
   content: '';
   display: table;
   clear: both;
 }
 
-.cd-img-replace {
+.product_page_css .cd-img-replace {
   /* replace text with background images */
   display: inline-block;
   overflow: hidden;
@@ -61,37 +61,37 @@ Modules - reusable parts of our design
 Main components 
 
 -------------------------------- */
-header {
+.product_page_css header {
   position: relative;
   height: 200px;
   line-height: 200px;
   text-align: center;
 }
-header h1 {
+.product_page_css header h1 {
   color: #7385ad;
   font-size: 26px;
   font-size: 1.625rem;
   font-weight: 300;
 }
 @media only screen and (min-width: 768px) {
-  header {
+  .product_page_css header {
     height: 250px;
     line-height: 250px;
   }
-  header h1 {
+  .product_page_css header h1 {
     font-size: 30px;
     font-size: 1.875rem;
   }
 }
 
-#cd-gallery-items {
+.product_page_css #cd-gallery-items {
   margin-top: 1.5em;
 }
-#cd-gallery-items > li {
+.product_page_css #cd-gallery-items > li {
   position: relative;
   margin-bottom: 6em;
 }
-#cd-gallery-items > li img {
+.product_page_css #cd-gallery-items > li img {
   width: 100%;
   display: block;
 }
