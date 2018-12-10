@@ -56,6 +56,9 @@ Mobile Menu and Overlay Adapted from:
 ## Resolving CSS conflicts for different frameworks and sections of website:
 
 ---
+Option 1: https://github.com/vic/prefix-css
+
+Option 2:
 
 You can't apply different stylesheets to different parts of a page. You have a few options:
 
