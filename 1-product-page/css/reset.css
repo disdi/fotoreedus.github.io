@@ -3,7 +3,7 @@
    License: none (public domain)
 */
 
-html, body, div, span, applet, object, iframe,
+.product_page_css html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
 del, dfn, em, img, ins, kbd, q, s, samp,
@@ -24,25 +24,25 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure, 
+.product_page_css article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section, main {
 	display: block;
 }
-body {
+.product_page_css body {
 	line-height: 1;
 }
-ol, ul {
+.product_page_css ol, ul {
 	list-style: none;
 }
-blockquote, q {
+.product_page_css blockquote, q {
 	quotes: none;
 }
-blockquote:before, blockquote:after,
+.product_page_css blockquote:before, blockquote:after,
 q:before, q:after {
 	content: '';
 	content: none;
 }
-table {
+.product_page_css table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
