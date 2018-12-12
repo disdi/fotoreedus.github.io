@@ -84,6 +84,15 @@
 .product_page_css mark,
 .product_page_css audio,
 .product_page_css video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+ul {
 	margin: 0 !important;
 	padding: 0 !important;
 	border: 0 !important;
@@ -92,6 +101,14 @@
 	vertical-align: baseline !important;
 }
 
+ul li {
+	margin: 0 !important;
+	padding: 0 !important;
+	border: 0 !important;
+	font-size: 100% !important;
+	font: inherit !important;
+	vertical-align: baseline !important;
+}
 
 
 /* HTML5 display-role reset for older browsers */
