@@ -92,23 +92,7 @@
 	vertical-align: baseline;
 }
 
-ul {
-	margin: 0 !important;
-	padding: 0 !important;
-	border: 0 !important;
-	font-size: 100% !important;
-	font: inherit !important;
-	vertical-align: baseline !important;
-}
 
-li {
-	margin: 0 !important;
-	padding: 0 !important;
-	border: 0 !important;
-	font-size: 100% !important;
-	font: inherit !important;
-	vertical-align: baseline !important;
-}
 
 
 /* HTML5 display-role reset for older browsers */
