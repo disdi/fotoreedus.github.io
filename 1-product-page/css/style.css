@@ -35,20 +35,20 @@ Primary style
 Modules - reusable parts of our design
 
 -------------------------------- */
-.product_page_css .cd-container {
+.cd-container {
   /* this class is used to give a max-width to the element it is applied to, and center it horizontally when it reaches that max-width */
   width: 90%;
   max-width: 1170px;
   margin: 0 auto;
 }
-.product_page_css .cd-container::after {
+.cd-container::after {
   /* clearfix */
   content: '';
   display: table;
   clear: both;
 }
 
-.product_page_css .cd-img-replace {
+.cd-img-replace {
   /* replace text with background images */
   display: inline-block;
   overflow: hidden;
@@ -84,14 +84,14 @@ Main components
   }
 }
 
-.product_page_css #cd-gallery-items {
+#cd-gallery-items {
   margin-top: 1.5em;
 }
-.product_page_css #cd-gallery-items > li {
+#cd-gallery-items > li {
   position: relative;
   margin-bottom: 6em;
 }
-.product_page_css #cd-gallery-items > li img {
+#cd-gallery-items > li img {
   width: 100%;
   display: block;
 }
