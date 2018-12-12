@@ -85,12 +85,14 @@
 .product_page_css audio,
 .product_page_css video {
 	margin: 0 !important;
-	padding: 0 !important;;
-	border: 0 !important;;
-	font-size: 100% !important;;
-	font: inherit !important;;
-	vertical-align: baseline !important;;
+	padding: 0 !important;
+	border: 0 !important;
+	font-size: 100% !important;
+	font: inherit !important;
+	vertical-align: baseline !important;
 }
+
+
 
 /* HTML5 display-role reset for older browsers */
 .product_page_css article,
