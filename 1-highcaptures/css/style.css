@@ -83,7 +83,7 @@ p {
 
 h1 {
   color: #000;
-  font-family: "Source Sans Pro", "Inconsolata", Arial, sans-serif;    /* changed font to source sans */
+  font-family: 'tex_gyre_herosregular', "Source Sans Pro", "Inconsolata", Arial, sans-serif;    /* changed font to source sans */
   font-weight: 400;
   margin: 0 0 20px 0;
 }
