@@ -28,7 +28,7 @@
 *
 * ======================================================= */
 body {
-  font-family: "Inconsolata", Arial, sans-serif;
+  font-family: "Source Sans Pro", "Inconsolata", Arial, sans-serif;     /* changed font to source sans */
   font-weight: 400;
   font-size: 18px;
   line-height: 1.7;
@@ -81,7 +81,7 @@ p {
 
 h1, h2, h3, h4, h5, h6, figure {
   color: #000;
-  font-family: "Inconsolata", Arial, sans-serif;
+  font-family: "Source Sans Pro", "Inconsolata", Arial, sans-serif;    /* changed font to source sans */
   font-weight: 400;
   margin: 0 0 20px 0;
 }
@@ -113,7 +113,7 @@ h1, h2, h3, h4, h5, h6, figure {
   padding: 0;
   text-transform: uppercase;
   font-weight: 700;
-  font-family: "Inconsolata", Arial, sans-serif;
+  font-family: "Source Sans Pro", "Inconsolata", Arial, sans-serif;     /* changed font to source sans */
 }
 .fh5co-nav #fh5co-logo a span {
   color: #DD356E;
