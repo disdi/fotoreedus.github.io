@@ -50,6 +50,11 @@ Mobile Menu and Overlay Adapted from:
 [1] https://codepen.io/riogrande/pen/gbXxdx  
 [2] https://www.w3schools.com/howto/howto_js_topnav_responsive.asp
 
+Title for Product Page; options
+- https://codepen.io/JbvGaming/pen/CwJHK
+- https://codepen.io/selcukcura/pen/OmYKJm
+- https://codepen.io/jpI/pen/ayNwvz
+
 
 # Troubleshooting
 
