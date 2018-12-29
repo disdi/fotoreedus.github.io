@@ -5,6 +5,7 @@
 ### Considering migration to WordPress; Possible themes
 - https://demo.kaliumtheme.com/photography/# 
 - See answer to functionality question on Envato forums
+- https://laborator.ticksy.com/ticket/1398087/
 
 ### Photography links:
 https://sites.google.com/site/marclevoylectures/home
